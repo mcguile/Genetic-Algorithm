@@ -1,2 +1,2 @@
 # Genetic-Algorithm
-Single file script for CEC 2005 benchmark functions.
+Single file script for use with CEC 2005 benchmark functions.
